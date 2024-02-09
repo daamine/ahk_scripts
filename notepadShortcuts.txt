@@ -1,0 +1,23 @@
+ALT + SHIFT + A: select columns
+Alt + F3: Wikipedia search
+Ctrl + Backspace: delete to the start of the word
+Ctrl + Delete: Delete to the end of the word
+Ctrl + Shift + Backspace: Delete to the start of the line
+Ctrl + Shift + Delete: Delete to the end of the line
+Ctrl + U: Convert to lower case
+Ctrl + Shift + U: Convert to upper case
+Ctrl + Q: Single line comment
+Ctrl + Shift + Q: Single line uncomment
+Ctrl + K: Toggle the single line comment
+Ctrl + Shift + K: Block comment
+Ctrl + G: Launch the GoToLine Dialog
+Ctrl + Shift + Up: Move the Current Line
+Ctrl + Shift + Down: Move the Current Line
+Ctrl + D: Duplicate the Current Line
+ALT + C: Column Editor
+Ctrl + Y: Redo
+Ctrl + O: Open the File
+Ctrl + N: New File
+Ctrl + H then replace ^ with pattern to add at start of line
+Ctrl + H then replace $ with pattern to add at end of line
+CTRL + J: join selected lines

@@ -1,0 +1,20 @@
+Alt + Tab: Switch between open programs
+Windows key + D: Show the desktop
+Windows key + E: Open File Explorer
+Windows key + L: Lock the computer
+Windows key + R: Open the Run box
+Win + Tab: switch between open windows
+Win + P: Project to a second screen
+Win + I: Open Settings
+Win + D: go to desktop
+Ctrl + Shift + N: Create a new folder
+Windows Logo Key+PrtScn: print screen
+window + ALT + D: for calender
+window + ALT + S: look up or search word
+window + ALT + T: translation
+window + ALT + M get mouse coordinates
+window + ALT + F: Create new text file here
+window + ALT + W:  open CMD
+window + ALT + L: Open terminal
+window + ALT + C: open chrome
+window + ALT + H: Toggle Hidden Files

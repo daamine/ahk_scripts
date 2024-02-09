@@ -1,0 +1,7 @@
+F12: go to definition
+ALT + arrow left/right: go back to previous
+SHIFT+ALT+F12: find all references
+Ctrl+Alt+H : show call hierarchy
+SHIFT+ALT+G: format document
+SHIFT+ALT+O: organize imports
+F2: rename symbol

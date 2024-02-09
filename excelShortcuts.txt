@@ -1,0 +1,3 @@
+Alt + =: Insert a formula to sum the selected cells.
+Ctrl + D: Fill down from the active cell
+Ctrl + R: Fill right from the active cell

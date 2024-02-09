@@ -1,0 +1,10 @@
+CTRL + N : find a class
+CTRL + B : go to definition
+ALT + F7: find usages
+Ctrl+Alt+H : show call hierarchy
+Ctrl + H: show class hierarchy 
+CTRL + F9: build project
+Ctrl+Alt+L: format the current file
+ALT + arrow left/right: go back to previous
+CTRL+ALT+O: organize imports
+SHIFT+F6: rename symbol
